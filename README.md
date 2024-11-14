@@ -9,6 +9,8 @@
 
 # Introduction to GitHub
 
+# GitHub step 1
+
 _Get started using GitHub in less than an hour._
 
 </header>
