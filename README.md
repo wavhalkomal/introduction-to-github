@@ -21,7 +21,7 @@ This project is licensed under the MIT License.
 ## ## GitHub steps 3
 
 
-## ## GitHub steps 4
+## ## GitHub steps 5
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
