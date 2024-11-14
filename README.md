@@ -18,6 +18,7 @@ This project is licensed under the MIT License.
 
 ## ## GitHub steps 2 
 
+## ## GitHub steps 3
 
 <!--
   <<< Author notes: Course header >>>
