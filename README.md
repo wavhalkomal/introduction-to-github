@@ -18,7 +18,7 @@ Welcome to my GitHub project! This is a simple project that demonstrates how to 
 
 This is a sample project to show how you can use Markdown formatting in your GitHub README. 
 
-![Project Logo](https://via.placeholder.com/150)
+![Project Logo]([https://via.placeholder.com/150](https://www.freecodecamp.org/news/content/images/2022/07/git-github.png))
 
 ---
 
